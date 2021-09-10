@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelyliu6 and I am a rising senior studying Computer Science and the University of Maryland, College Park.
-- 👀 I’m interested in learning more about Artifical Intelligence and Machine Learning.
-- 🌱 I’m currently working on a project that uses neural networks and genetic algorithms to learn to play the popular mobile game Flappy Bird.
+- 👀 I’m interested in learning more about Software Engineering.
+- 🌱 I’m currently learning about professional iOS development and Front End Development Libraries.
 - My past projects which can be found on my GitHub include a Connect Four Solver using a Minimax algorithm, Audio and Image classification using 
 CNNs and a PathFinding Visualizer web app using React.
 - 💞️ I’m looking to collaborate on ANYTHING!
