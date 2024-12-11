@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @michaelyliu6 and I am a rising senior studying Computer Science and the University of Maryland, College Park.
-- 👀 I’m interested in learning more about Software Engineering.
-- 🌱 I’m currently learning about professional iOS development and Front End Development Libraries.
-- My past projects which can be found on my GitHub include a Connect Four Solver using a Minimax algorithm, Audio and Image classification using 
-CNNs and a PathFinding Visualizer web app using React.
-- 💞️ I’m looking to collaborate on ANYTHING!
-- 📫 How to reach me michaelyliu6@gmail.com
+- 👋 Hi, I’m @michaelyliu6 and I am ex-AWS SDE looking to transition in AI/ML
+- 📫 How to reach me michaelyliu6@gmail.com or https://www.linkedin.com/in/michael-liu-a14932197/
 
 <!---
 michaelyliu6/michaelyliu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
