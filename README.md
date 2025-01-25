@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelyliu6 and I am ex-AWS SDE looking to transition in AI/ML
+- 👋 Hi, I’m @michaelyliu6 and I am ex-AWS SDE looking roles in AI/ML.
 - 📫 How to reach me michaelyliu6@gmail.com or https://www.linkedin.com/in/michael-liu-a14932197/
 
 <!---
